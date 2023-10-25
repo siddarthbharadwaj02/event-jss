@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+# Pull the image from my docker regrestory and run the image as a container
 
-Template Name: TheEvent
-Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+docker push siddharthbharadwaj/event:
+
